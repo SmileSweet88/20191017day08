@@ -1,2 +1,2 @@
 import os
-print(os.path.absPath(_file_))
+print(os.path.abspath('_file_'))
